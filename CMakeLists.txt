@@ -15,3 +15,4 @@ set(wowcc_src
 
 add_executable(wowcc ${wowcc_src})
 
+install(TARGETS wowcc DESTINATION ${CMAKE_INSTALL_BINDIR})
