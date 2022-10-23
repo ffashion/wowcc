@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/wowcc.dir/wowcc.c.o CMakeFiles/wowcc.dir/token.c.o CMakeFiles/wowcc.dir/parser.c.o -o wowcc 

@@ -1,0 +1,3 @@
+/Volumes/project/wowcc/build/CMakeFiles/wowcc.dir
+/Volumes/project/wowcc/build/CMakeFiles/edit_cache.dir
+/Volumes/project/wowcc/build/CMakeFiles/rebuild_cache.dir
